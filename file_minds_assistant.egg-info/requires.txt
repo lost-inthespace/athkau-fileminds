@@ -1,0 +1,10 @@
+PyQt5
+PyPDF2
+pdfplumber
+python-docx
+openpyxl
+torch
+transformers
+sentence-transformers
+openai
+requests

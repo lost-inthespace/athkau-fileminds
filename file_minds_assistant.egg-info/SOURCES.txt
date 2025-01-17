@@ -1,0 +1,6 @@
+setup.py
+file_minds_assistant.egg-info/PKG-INFO
+file_minds_assistant.egg-info/SOURCES.txt
+file_minds_assistant.egg-info/dependency_links.txt
+file_minds_assistant.egg-info/requires.txt
+file_minds_assistant.egg-info/top_level.txt

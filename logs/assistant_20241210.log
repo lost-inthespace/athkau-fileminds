@@ -1,0 +1,24 @@
+2024-12-10 03:13:11,761 - assistant - INFO - No documents to load
+2024-12-10 03:15:29,664 - assistant - INFO - No documents to load
+2024-12-10 03:21:48,479 - assistant - INFO - No documents to load
+2024-12-10 03:23:02,073 - assistant - INFO - Loaded 15 documents
+2024-12-10 03:23:21,873 - assistant - INFO - Selected document: /Users/mohammedalzmzmi/Athkau/file_minds/one_app-claude/files/job applying letter.pdf
+2024-12-10 03:23:31,674 - assistant - INFO - Processing query: what is this file?
+2024-12-10 03:23:31,681 - assistant - INFO - Query handled with intent: QueryIntent.HELP
+2024-12-10 03:23:43,483 - assistant - INFO - Processing query: summarize
+2024-12-10 03:23:47,238 - assistant - INFO - Query handled with intent: QueryIntent.SUMMARIZE
+2024-12-10 03:24:24,815 - assistant - INFO - Processing query: show selected file
+2024-12-10 03:24:24,822 - assistant - INFO - Query handled with intent: QueryIntent.HELP
+2024-12-10 03:24:40,713 - assistant - INFO - Processing query: Show selected file.
+2024-12-10 03:24:40,716 - assistant - INFO - Query handled with intent: QueryIntent.HELP
+2024-12-10 03:24:42,157 - assistant - INFO - Processing query: Show selected file
+2024-12-10 03:24:42,158 - assistant - INFO - Query handled with intent: QueryIntent.HELP
+2024-12-10 03:24:46,029 - assistant - INFO - Processing query: clear
+2024-12-10 03:24:46,029 - assistant - INFO - Query handled with intent: QueryIntent.DELETE
+2024-12-10 03:24:54,184 - assistant - INFO - Selected document: /Users/mohammedalzmzmi/Athkau/file_minds/one_app-claude/files/job applying letter.pdf
+2024-12-10 03:25:00,744 - assistant - INFO - Processing query: when this?
+2024-12-10 03:25:00,746 - assistant - INFO - Query handled with intent: QueryIntent.HELP
+2024-12-10 03:25:33,206 - assistant - INFO - Processing query: ask question
+2024-12-10 03:25:35,684 - assistant - INFO - Query handled with intent: QueryIntent.DOCUMENT
+2024-12-10 03:25:54,830 - assistant - INFO - Processing query: ask question what is this?
+2024-12-10 03:25:54,834 - assistant - INFO - Query handled with intent: QueryIntent.HELP

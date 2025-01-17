@@ -1,0 +1,5 @@
+2024-12-10 03:21:48,754 - INFO - Application initialized successfully
+2024-12-10 03:44:38,868 - ERROR - Error saving application state: 'AIDocumentAssistant' object has no attribute 'get_selected_files'
+2024-12-10 06:08:20,273 - ERROR - Error saving application state: 'AIDocumentAssistant' object has no attribute 'get_selected_files'
+2024-12-10 08:47:24,556 - ERROR - Error saving application state: 'AIDocumentAssistant' object has no attribute 'get_selected_files'
+2024-12-10 09:30:46,666 - ERROR - Error saving application state: 'AIDocumentAssistant' object has no attribute 'get_selected_files'

@@ -1,0 +1,53 @@
+2024-12-10 03:08:24,455 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2024-12-10 03:08:24,456 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-12-10 03:08:27,777 - nlp - INFO - NLP models initialized successfully
+2024-12-10 03:08:28,358 - __main__ - ERROR - Dependency check failed: Missing packages: azure-cognitiveservices-vision-computervision, azure-cognitiveservices-speech
+2024-12-10 03:09:08,962 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2024-12-10 03:09:08,963 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-12-10 03:09:13,241 - nlp - INFO - NLP models initialized successfully
+2024-12-10 03:09:13,811 - __main__ - ERROR - Dependency check failed: Missing packages: azure-cognitiveservices-vision-computervision, azure-cognitiveservices-speech
+2024-12-10 03:13:07,279 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2024-12-10 03:13:07,280 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-12-10 03:13:10,789 - nlp - INFO - NLP models initialized successfully
+2024-12-10 03:13:11,761 - assistant - INFO - No documents to load
+2024-12-10 03:15:24,482 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2024-12-10 03:15:24,482 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-12-10 03:15:28,722 - nlp - INFO - NLP models initialized successfully
+2024-12-10 03:15:29,664 - assistant - INFO - No documents to load
+2024-12-10 03:17:36,306 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2024-12-10 03:17:36,306 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-12-10 03:17:39,509 - nlp - INFO - NLP models initialized successfully
+2024-12-10 03:20:19,153 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2024-12-10 03:20:19,154 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-12-10 03:20:22,280 - nlp - INFO - NLP models initialized successfully
+2024-12-10 03:21:43,089 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2024-12-10 03:21:43,089 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-12-10 03:21:47,545 - nlp - INFO - NLP models initialized successfully
+2024-12-10 03:21:48,479 - assistant - INFO - No documents to load
+2024-12-10 03:21:48,754 - ui - INFO - Application initialized successfully
+2024-12-10 03:23:02,073 - assistant - INFO - Loaded 15 documents
+2024-12-10 03:23:21,873 - assistant - INFO - Selected document: /Users/mohammedalzmzmi/Athkau/file_minds/one_app-claude/files/job applying letter.pdf
+2024-12-10 03:23:31,674 - assistant - INFO - Processing query: what is this file?
+2024-12-10 03:23:31,681 - assistant - INFO - Query handled with intent: QueryIntent.HELP
+2024-12-10 03:23:43,483 - assistant - INFO - Processing query: summarize
+2024-12-10 03:23:47,238 - assistant - INFO - Query handled with intent: QueryIntent.SUMMARIZE
+2024-12-10 03:24:24,815 - assistant - INFO - Processing query: show selected file
+2024-12-10 03:24:24,822 - assistant - INFO - Query handled with intent: QueryIntent.HELP
+2024-12-10 03:24:40,713 - assistant - INFO - Processing query: Show selected file.
+2024-12-10 03:24:40,716 - assistant - INFO - Query handled with intent: QueryIntent.HELP
+2024-12-10 03:24:42,157 - assistant - INFO - Processing query: Show selected file
+2024-12-10 03:24:42,158 - assistant - INFO - Query handled with intent: QueryIntent.HELP
+2024-12-10 03:24:46,029 - assistant - INFO - Processing query: clear
+2024-12-10 03:24:46,029 - assistant - INFO - Query handled with intent: QueryIntent.DELETE
+2024-12-10 03:24:54,184 - assistant - INFO - Selected document: /Users/mohammedalzmzmi/Athkau/file_minds/one_app-claude/files/job applying letter.pdf
+2024-12-10 03:25:00,744 - assistant - INFO - Processing query: when this?
+2024-12-10 03:25:00,746 - assistant - INFO - Query handled with intent: QueryIntent.HELP
+2024-12-10 03:25:33,206 - assistant - INFO - Processing query: ask question
+2024-12-10 03:25:35,647 - httpx - INFO - HTTP Request: POST https://gptathkau.openai.azure.com//openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-15-preview "HTTP/1.1 200 OK"
+2024-12-10 03:25:35,684 - assistant - INFO - Query handled with intent: QueryIntent.DOCUMENT
+2024-12-10 03:25:54,830 - assistant - INFO - Processing query: ask question what is this?
+2024-12-10 03:25:54,834 - assistant - INFO - Query handled with intent: QueryIntent.HELP
+2024-12-10 03:44:38,868 - ui - ERROR - Error saving application state: 'AIDocumentAssistant' object has no attribute 'get_selected_files'
+2024-12-10 06:08:20,273 - ui - ERROR - Error saving application state: 'AIDocumentAssistant' object has no attribute 'get_selected_files'
+2024-12-10 08:47:24,556 - ui - ERROR - Error saving application state: 'AIDocumentAssistant' object has no attribute 'get_selected_files'
+2024-12-10 09:30:46,666 - ui - ERROR - Error saving application state: 'AIDocumentAssistant' object has no attribute 'get_selected_files'
