@@ -68,3 +68,7 @@ python3.10 main.py
 
 With these steps, you'll be up and running with **one_app-Aesthetic**, designed to simplify your digital life while looking great!
 # fileMinds
+# athkau-fileminds
+# athkau-fileminds
+# athkau-fileminds
+# athkau-fileminds
